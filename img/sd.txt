@@ -1,0 +1,229 @@
+                    !-- product --
+!----
+!--                    !-- product ----
+!--                    div class=col-md-4 col-xs-6--
+!--                        div class=product--
+!--                            div class=product-img--
+!--                                img src=.imgproductsproduct02.png alt=--
+!--                                div class=product-label--
+!--                                    span class=newNEWspan--
+!--                                div--
+!--                            div--
+!--                            div class=product-body--
+!--                                p class=product-categoryCategoryp--
+!--                                h3 class=product-namea href=#product name goes hereah3--
+!--                                h4 class=product-price$980.00 del class=product-old-price$990.00delh4--
+!--                                div class=product-rating--
+!--                                    i class=fa fa-stari--
+!--                                    i class=fa fa-stari--
+!--                                    i class=fa fa-stari--
+!--                                    i class=fa fa-stari--
+!--                                    i class=fa fa-star-oi--
+!--                                div--
+!--                                div class=product-btns--
+!--                                    button class=add-to-wishlisti class=fa fa-heart-oispan class=tooltippadd to wishlistspanbutton--
+!--                                    button class=add-to-comparei class=fa fa-exchangeispan class=tooltippadd to comparespanbutton--
+!--                                    button class=quick-viewi class=fa fa-eyeispan class=tooltippquick viewspanbutton--
+!--                                div--
+!--                            div--
+!--                            div class=add-to-cart--
+!--                                button class=add-to-cart-btni class=fa fa-shopping-carti add to cartbutton--
+!--                            div--
+!--                        div--
+!--                    div--
+!--                    !-- product ----
+!----
+!--                    div class=clearfix visible-sm visible-xsdiv--
+!----
+!--                    !-- product ----
+!--                    div class=col-md-4 col-xs-6--
+!--                        div class=product--
+!--                            div class=product-img--
+!--                                img src=.imgproductsproduct03.png alt=--
+!--                            div--
+!--                            div class=product-body--
+!--                                p class=product-categoryCategoryp--
+!--                                h3 class=product-namea href=#product name goes hereah3--
+!--                                h4 class=product-price$980.00 del class=product-old-price$990.00delh4--
+!--                                div class=product-rating--
+!--                                div--
+!--                                div class=product-btns--
+!--                                    button class=add-to-wishlisti class=fa fa-heart-oispan class=tooltippadd to wishlistspanbutton--
+!--                                    button class=add-to-comparei class=fa fa-exchangeispan class=tooltippadd to comparespanbutton--
+!--                                    button class=quick-viewi class=fa fa-eyeispan class=tooltippquick viewspanbutton--
+!--                                div--
+!--                            div--
+!--                            div class=add-to-cart--
+!--                                button class=add-to-cart-btni class=fa fa-shopping-carti add to cartbutton--
+!--                            div--
+!--                        div--
+!--                    div--
+!--                    !-- product ----
+!----
+!--                    div class=clearfix visible-lg visible-mddiv--
+!----
+!--                    !-- product ----
+!--                    div class=col-md-4 col-xs-6--
+!--                        div class=product--
+!--                            div class=product-img--
+!--                                img src=.imgproductsproduct04.png alt=--
+!--                            div--
+!--                            div class=product-body--
+!--                                p class=product-categoryCategoryp--
+!--                                h3 class=product-namea href=#product name goes hereah3--
+!--                                h4 class=product-price$980.00 del class=product-old-price$990.00delh4--
+!--                                div class=product-rating--
+!--                                div--
+!--                                div class=product-btns--
+!--                                    button class=add-to-wishlisti class=fa fa-heart-oispan class=tooltippadd to wishlistspanbutton--
+!--                                    button class=add-to-comparei class=fa fa-exchangeispan class=tooltippadd to comparespanbutton--
+!--                                    button class=quick-viewi class=fa fa-eyeispan class=tooltippquick viewspanbutton--
+!--                                div--
+!--                            div--
+!--                            div class=add-to-cart--
+!--                                button class=add-to-cart-btni class=fa fa-shopping-carti add to cartbutton--
+!--                            div--
+!--                        div--
+!--                    div--
+!--                    !-- product ----
+!----
+!--                    div class=clearfix visible-sm visible-xsdiv--
+!----
+!--                    !-- product ----
+!--                    div class=col-md-4 col-xs-6--
+!--                        div class=product--
+!--                            div class=product-img--
+!--                                img src=.imgproductsproduct05.png alt=--
+!--                            div--
+!--                            div class=product-body--
+!--                                p class=product-categoryCategoryp--
+!--                                h3 class=product-namea href=#product name goes hereah3--
+!--                                h4 class=product-price$980.00 del class=product-old-price$990.00delh4--
+!--                                div class=product-rating--
+!--                                div--
+!--                                div class=product-btns--
+!--                                    button class=add-to-wishlisti class=fa fa-heart-oispan class=tooltippadd to wishlistspanbutton--
+!--                                    button class=add-to-comparei class=fa fa-exchangeispan class=tooltippadd to comparespanbutton--
+!--                                    button class=quick-viewi class=fa fa-eyeispan class=tooltippquick viewspanbutton--
+!--                                div--
+!--                            div--
+!--                            div class=add-to-cart--
+!--                                button class=add-to-cart-btni class=fa fa-shopping-carti add to cartbutton--
+!--                            div--
+!--                        div--
+!--                    div--
+!--                    !-- product ----
+!----
+!--                    !-- product ----
+!--                    div class=col-md-4 col-xs-6--
+!--                        div class=product--
+!--                            div class=product-img--
+!--                                img src=.imgproductsproduct06.png alt=--
+!--                            div--
+!--                            div class=product-body--
+!--                                p class=product-categoryCategoryp--
+!--                                h3 class=product-namea href=#product name goes hereah3--
+!--                                h4 class=product-price$980.00 del class=product-old-price$990.00delh4--
+!--                                div class=product-rating--
+!--                                    i class=fa fa-stari--
+!--                                    i class=fa fa-stari--
+!--                                    i class=fa fa-stari--
+!--                                    i class=fa fa-stari--
+!--                                    i class=fa fa-star-oi--
+!--                                div--
+!--                                div class=product-btns--
+!--                                    button class=add-to-wishlisti class=fa fa-heart-oispan class=tooltippadd to wishlistspanbutton--
+!--                                    button class=add-to-comparei class=fa fa-exchangeispan class=tooltippadd to comparespanbutton--
+!--                                    button class=quick-viewi class=fa fa-eyeispan class=tooltippquick viewspanbutton--
+!--                                div--
+!--                            div--
+!--                            div class=add-to-cart--
+!--                                button class=add-to-cart-btni class=fa fa-shopping-carti add to cartbutton--
+!--                            div--
+!--                        div--
+!--                    div--
+!--                    !-- product ----
+!----
+!--                    div class=clearfix visible-lg visible-md visible-sm visible-xsdiv--
+!----
+!--                    !-- product ----
+!--                    div class=col-md-4 col-xs-6--
+!--                        div class=product--
+!--                            div class=product-img--
+!--                                img src=.imgproductsproduct07.png alt=--
+!--                            div--
+!--                            div class=product-body--
+!--                                p class=product-categoryCategoryp--
+!--                                h3 class=product-namea href=#product name goes hereah3--
+!--                                h4 class=product-price$980.00 del class=product-old-price$990.00delh4--
+!--                                div class=product-rating--
+!--                                    i class=fa fa-stari--
+!--                                    i class=fa fa-stari--
+!--                                    i class=fa fa-stari--
+!--                                    i class=fa fa-stari--
+!--                                    i class=fa fa-stari--
+!--                                div--
+!--                                div class=product-btns--
+!--                                    button class=add-to-wishlisti class=fa fa-heart-oispan class=tooltippadd to wishlistspanbutton--
+!--                                    button class=add-to-comparei class=fa fa-exchangeispan class=tooltippadd to comparespanbutton--
+!--                                    button class=quick-viewi class=fa fa-eyeispan class=tooltippquick viewspanbutton--
+!--                                div--
+!--                            div--
+!--                            div class=add-to-cart--
+!--                                button class=add-to-cart-btni class=fa fa-shopping-carti add to cartbutton--
+!--                            div--
+!--                        div--
+!--                    div--
+!--                    !-- product ----
+!----
+!--                    !-- product ----
+!--                    div class=col-md-4 col-xs-6--
+!--                        div class=product--
+!--                            div class=product-img--
+!--                                img src=.imgproductsproduct08.png alt=--
+!--                            div--
+!--                            div class=product-body--
+!--                                p class=product-categoryCategoryp--
+!--                                h3 class=product-namea href=#product name goes hereah3--
+!--                                h4 class=product-price$980.00 del class=product-old-price$990.00delh4--
+!--                                div class=product-rating--
+!--                                div--
+!--                                div class=product-btns--
+!--                                    button class=add-to-wishlisti class=fa fa-heart-oispan class=tooltippadd to wishlistspanbutton--
+!--                                    button class=add-to-comparei class=fa fa-exchangeispan class=tooltippadd to comparespanbutton--
+!--                                    button class=quick-viewi class=fa fa-eyeispan class=tooltippquick viewspanbutton--
+!--                                div--
+!--                            div--
+!--                            div class=add-to-cart--
+!--                                button class=add-to-cart-btni class=fa fa-shopping-carti add to cartbutton--
+!--                            div--
+!--                        div--
+!--                    div--
+!--                    !-- product ----
+!----
+!--                    div class=clearfix visible-sm visible-xsdiv--
+!----
+!--                    !-- product ----
+!--                    div class=col-md-4 col-xs-6--
+!--                        div class=product--
+!--                            div class=product-img--
+!--                                img src=.imgproductsproduct09.png alt=--
+!--                            div--
+!--                            div class=product-body--
+!--                                p class=product-categoryCategoryp--
+!--                                h3 class=product-namea href=#product name goes hereah3--
+!--                                h4 class=product-price$980.00 del class=product-old-price$990.00delh4--
+!--                                div class=product-rating--
+!--                                div--
+!--                                div class=product-btns--
+!--                                    button class=add-to-wishlisti class=fa fa-heart-oispan class=tooltippadd to wishlistspanbutton--
+!--                                    button class=add-to-comparei class=fa fa-exchangeispan class=tooltippadd to comparespanbutton--
+!--                                    button class=quick-viewi class=fa fa-eyeispan class=tooltippquick viewspanbutton--
+!--                                div--
+!--                            div--
+!--                            div class=add-to-cart--
+!--                                button class=add-to-cart-btni class=fa fa-shopping-carti add to cartbutton--
+!--                            div--
+!--                        div--
+!--                    div--
+!--                    !-- product ----
